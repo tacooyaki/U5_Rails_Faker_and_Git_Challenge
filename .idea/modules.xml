@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/U5.iml" filepath="$PROJECT_DIR$/.idea/U5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../simple_store/.idea/U5.iml" filepath="$PROJECT_DIR$/../simple_store/.idea/U5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../simple_store/U5_Rails_Faker_and_Git_Challenge/U5_Rails_Faker_and_Git_Challenge.iml" filepath="$PROJECT_DIR$/../simple_store/U5_Rails_Faker_and_Git_Challenge/U5_Rails_Faker_and_Git_Challenge.iml" />
     </modules>
   </component>
 </project>
